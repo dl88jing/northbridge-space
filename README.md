@@ -4,7 +4,10 @@
 Submission for *Ctrl+Space: An Expo × ReactVision Hackathon* (Oct 2026).
 
 - **Live web build:** https://northbridge-space.vercel.app
-- **Demo video:** see the latest [GitHub release](https://github.com/dl88jing/northbridge-space/releases)
+- **Demo video (2:08, narrated):** https://github.com/dl88jing/northbridge-space/releases/download/v1.0.0/northbridge-space-demo.mp4
+
+![Placing a note on the washer](https://github.com/dl88jing/northbridge-space/releases/download/v1.0.0/screenshot-placed.png)
+![Walk-through proximity reminders](https://github.com/dl88jing/northbridge-space/releases/download/v1.0.0/screenshot-walkthrough.png)
 
 ## Problem
 Avery & Morgan share an apartment. Their reminders live in a group chat, a fridge whiteboard and a calendar nobody opens. A reminder is only useful *where you can act on it*: "move towels to the dryer" belongs on the dryer, "keys + gym bag" belongs at the front door.
